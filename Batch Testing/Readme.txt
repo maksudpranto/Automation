@@ -8,3 +8,6 @@ In this project I try to create some basic UnitTest and Run all the Test as a Su
 		|
 		|
 		Run above all three under a Suite
+		|
+		|
+		Generate HTML Report
